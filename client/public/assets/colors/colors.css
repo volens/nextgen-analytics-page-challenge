@@ -6,7 +6,7 @@
   --main-background-color: #050711;
   --primary-text-color: #cccccc;
   --secondary-text-color: #849fb4;
-
+  --card-bg :#0D101D; 
   --primary-gradient: linear-gradient(
     90deg,
     rgb(78, 255, 207) 0%,
@@ -17,4 +17,12 @@
     rgb(255, 86, 238) 0%,
     rgb(62, 87, 194) 100%
   );
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat'), local('Montserrat'),
+       url('../fonts/Montserrat/Montserrat-Light.ttf'), /* IE6-IE8 */
+  
 }
