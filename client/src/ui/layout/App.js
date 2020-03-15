@@ -5,7 +5,7 @@ import Navigation from '../components/navigation/Navigation';
 
 function App() {
   return (
-     <div className="main-app main-bg">
+     <div className="main-app ">
        <Navigation/>
        <Dashboard/>
 
